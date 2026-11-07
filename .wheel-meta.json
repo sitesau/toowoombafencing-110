@@ -1,0 +1,22 @@
+{
+  "wheel_id": 800,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-110",
+  "project": "fencing-contractors-toowoomba-glossary-e03a01618bcf0fff23959153",
+  "parent_t1_ref": "toowoombafencing-154",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba glossary",
+  "intended_url": "http://fencing-contractors-toowoomba-glossary-e03a01618bcf0fff23959153.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0a0a5784e03c7bfe",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-budget-tips-2f8f13ad8ec91c74e9d9b/",
+      "anchor": "fencing contractors toowoomba budget tips",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
